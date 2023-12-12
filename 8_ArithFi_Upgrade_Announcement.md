@@ -1,6 +1,6 @@
 Dear the ArithFi Community,
 
-To meet user trading demands, ArithFi will launch foreign exchange trading, with the following detailed adjustments:
+To meet user trading demands, ArithFi will launch forex derivatives trading, with the following detailed adjustments:
 
 ## ArithFi Upgrades
 
